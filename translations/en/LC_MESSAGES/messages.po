@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "File Nomenclature Generator"
+msgstr "File Nomenclature Generator"
+
+msgid "Add Field"
+msgstr "Add Field"
+
+msgid "Generate Nomenclature"
+msgstr "Generate Nomenclature"
+
+msgid "Field Name"
+msgstr "Field Name"
+
+msgid "Field Values"
+msgstr "Field Values"
+
+msgid "Remove Field"
+msgstr "Remove Field"
+
+msgid "Generated Nomenclature"
+msgstr "Generated Nomenclature"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Separator"
+msgstr "Separator"
+
+msgid "Upload File"
+msgstr "Upload File"
+
+msgid "Load Fields"
+msgstr "Load Fields"
+
+msgid "Select a value"
+msgstr "Select a value"
+
+msgid "Add Value"
+msgstr "Add Value"
+
+msgid "Enter a new value:"
+msgstr "Enter a new value:"

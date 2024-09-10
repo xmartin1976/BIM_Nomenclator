@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.field-container {
+    margin-bottom: 15px;
+    border: 2px solid #007bff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.field-container label {
+    font-size: 1.1em;
+    color: #007bff;
+}
+
+.field-container input,
+.field-container select {
+    border: 1px solid #007bff;
+    padding: 10px;
+    font-size: 1em;
+}
+
+#nomenclatures {
+    margin-top: 20px;
+}
+
+.nomenclature-item {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.copy-btn {
+    margin-left: 10px;
+}
+
+#logo {
+    max-width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.table-bordered {
+    margin-top: 20px;
+}
+
+#main-container {
+    max-width: 900px; /* Ajusta aquí l'ample màxim, pots reduir més si ho necessites */
+    margin: 0 auto;
+}
